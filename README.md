@@ -1,4 +1,3 @@
 👋 Hi, I’m Abdullah Jamil
 -
-I’m a sophomore pursuing IT Engineering from Netaji Subhas University of Technology, New Delhi. Thank you for stopping by.
-I have deep interest in learning new tech and I am passionate to contribute to the world from the clicks of my hand :)
+I am a dedicated full-stack developer currently pursuing my undergraduate degree in Information Technology from Netaji Subhas University of Technology in New Delhi. With a passion for creating comprehensive solutions, I possess a strong foundation in full-stack development, seamlessly integrating front-end and back-end technologies. In addition to my proficiency in various development skills, I specialize in C++ with a focus on Data Structures and Algorithms (DSA), allowing me to design efficient and scalable applications. My academic pursuits coupled with hands-on development experience have equipped me with a holistic understanding of Technology, making me adept at tackling diverse challenges in the field.
