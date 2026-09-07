@@ -1,3 +1,7 @@
 👋 Hi, I’m Abdullah Jamil
 -
-I am a dedicated full-stack developer currently working as a System Architect at Verizon, India. I did my undergraduate degree in Information Technology from Netaji Subhas University of Technology in New Delhi. With a passion for creating comprehensive solutions, I possess a strong foundation in full-stack development, seamlessly integrating front-end and back-end technologies. In addition to my proficiency in various development skills, I specialize in C++ with a focus on Data Structures and Algorithms (DSA), allowing me to design efficient and scalable applications. My academic pursuits coupled with hands-on development experience have equipped me with a holistic understanding of Technology, making me adept at tackling diverse challenges in the field.
+I am a Software Engineer passionate about building scalable, reliable, and high-performance software, with 1+ year of professional experience in software development at Verizon India. My experience spans backend and full-stack development, with a strong interest in distributed systems, system design, and solving complex engineering problems. Currently pursuing an MSc in Computer Science at Western University, I am combining industry experience with advanced technical knowledge to build impactful software solutions.
+
+Outside of coding, I enjoy learning about new technologies, improving my problem-solving skills, and taking on projects that challenge me to grow as an engineer.
+
+I am always open to connecting with fellow developers, collaborating on interesting projects, and exploring opportunities to create impactful software.
